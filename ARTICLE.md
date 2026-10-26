@@ -138,6 +138,6 @@ I packaged all 17 into a free Claude skill called **prod-ready**. It maps your s
 
 Works with Claude.ai, Claude Code, Cursor, or any agent. There's also a copy-paste version if you don't use skills.
 
-👉 github.com/<your-username>/vibe-to-prod
+👉 github.com/shahbaz17/vibe-to-prod
 
 Ship fast. Then make it survive.

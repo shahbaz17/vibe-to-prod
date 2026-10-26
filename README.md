@@ -43,7 +43,7 @@ vibe-to-prod/
 
 **Claude Code (all projects):**
 ```bash
-git clone https://github.com/<your-username>/vibe-to-prod.git
+git clone https://github.com/shahbaz17/vibe-to-prod.git
 cp -r vibe-to-prod/skills/prod-ready ~/.claude/skills/
 ```
 
